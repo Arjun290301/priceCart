@@ -1,0 +1,38 @@
+.Hero{
+  font-family: sans-serif;
+  border: solid black 1px;
+  border-radius: 20px;
+  margin: 40px;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img{
+  width: 10px;
+  height: 10px;
+}
+
+.text{
+  margin: 20px;
+  margin-left: 50px;
+} 
+.part-2{
+  margin: 30px;
+  margin-top: 100px;
+
+}
+.total{
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: blueviolet;
+  display: inline;
+  margin-left: 45%;
+  padding: 10px;
+
+}
+.table3{
+  border: 2px solid black;
+  margin-top: 90px;
+  background-color: blueviolet;
+  padding: 10px;
+}
